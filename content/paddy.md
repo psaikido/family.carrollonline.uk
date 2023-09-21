@@ -5,7 +5,7 @@ type: "default"
 
 Paddy's cine films digitised most recently by Lell (Imelda).  
 
-Two reels ended up as three big 'vob' files. Here they are split up into bite sizes.  
+Two reels split up into bite sizes.  
 
 Much improvement could be made to the labels and dates. Suggestions to hughie [at] hugle.uk.  
 
