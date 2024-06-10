@@ -13,6 +13,7 @@
 html {
 	--bkg-major: var(--white);
 	--hilight: var(--blue);
+	--hilight-sub: var(--dark-grey);
 	--border-dark: var(--pink);
 	--border-light: var(--off-white);
 	--text-major: var(--black);
@@ -22,6 +23,7 @@ html {
 	&.dark {
 		--bkg-major: var(--dark-grey);
 		--hilight: var(--orange);
+        --hilight-sub: var(--pink);
 		--border-dark: var(--pink);
 		--border-light: var(--mid-grey);
 		--text-major: var(--off-white);
